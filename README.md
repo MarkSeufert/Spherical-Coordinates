@@ -1,5 +1,5 @@
 # Spherical Navigator
-An application that allows the user to graphically select two points on the earth, and then view the shortest distance between them. This project was made in Unity3d using c# and contains an executable file for windows. 
+An application that allows the user to graphically select two points on the earth, and then view the shortest distance between them. This project was made in Unity3d using javascript (this was before I realized c# is better) and contains an executable file for windows. 
 
 ### How to use the application:
 - Open the "SphericalCoordinates_Executable" folder and run the SphericalCoordinates.exe file
