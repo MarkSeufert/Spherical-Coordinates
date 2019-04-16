@@ -1,7 +1,6 @@
 ﻿// Draws a horizontal slider control that goes from 0 to 10.
 var hSliderValue:float=0.0;
 var theSkin : GUISkin;
-var theText:UI.Text;
 
 function OnGUI () {
 	GUI.skin = theSkin;//This gives the slider its texture
