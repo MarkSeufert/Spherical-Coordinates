@@ -8,3 +8,4 @@ An application that allows the user to graphically select two points on the eart
 - Use the scrollwheel to zoom in and out on the earth
 - Use the slider in the top right corner to change the time of day
 
+![Capture](https://user-images.githubusercontent.com/22309117/56178128-14012880-5fcf-11e9-90a7-694db62bf21e.PNG)
